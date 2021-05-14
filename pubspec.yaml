@@ -1,7 +1,6 @@
 name: flutter_stack_card_plus
 description: 一个层叠式可拖动的卡片组件
-version: 0.0.1+1
-author: xiaochao <yu1070331325@gmail.com>
+version: 0.0.1
 homepage: https://github.com/yuxiaochao/flutter_stack_card_plus
 
 environment:
