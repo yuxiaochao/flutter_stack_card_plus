@@ -1,4 +1,4 @@
-**# flutter_stack_card_plus**
+# flutter_stack_card_plus
 
 
 
@@ -6,6 +6,6 @@
 
 
 
-**## 效果**
+## 效果
 
 ![yanshi](https://tva1.sinaimg.cn/large/008i3skNgy1gqi7fnjcrrg30u01sx1bu.gif)
